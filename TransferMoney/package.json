@@ -4,7 +4,7 @@
   "author": "Matt Browne",
   "license": "ISC",
   "scripts": {
-    "build": "webpack src/index.js dist/bundle.js"
+    "build": "webpack src/index.js build/bundle.js"
   },
   "devDependencies": {
     "dci-js-examples": "file:../"
