@@ -1,0 +1,12 @@
+{
+  "name": "dci-js-examples-transfer-money",
+  "version": "0.0.1",
+  "author": "Matt Browne",
+  "license": "ISC",
+  "scripts": {
+    "build": "webpack src/index.js dist/bundle.js"
+  },
+  "devDependencies": {
+    "dci-js-examples": "file:../"
+  }
+}

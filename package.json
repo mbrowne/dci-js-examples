@@ -1,0 +1,10 @@
+{
+  "name": "dci-js-examples",
+  "version": "0.0.1",
+  "description": "DCI examples in Javascript",
+  "author": "Matt Browne",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
